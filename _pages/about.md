@@ -26,14 +26,41 @@ latest_posts:
 ---
 
 I'm a Senior Technical Writer and UX Writer with 14+ years of experience helping people understand complex things — whether that's an API, an enterprise software product, or a mountain pass at 4,500 metres.
+
 I've worked across SaaS, FinTech, Telecom, PLM, and Travel industries, building documentation that developers actually read and UX copy that users actually understand. My work spans API reference guides, developer portals, UX microcopy, content strategy, and information architecture — tools of the trade include Oxygen XML, Swagger, Figma, GitBook, and a docs-as-code mindset that keeps everything version-controlled and sane.
 
-Right now I'm consulting at AI Technical Writing.com, architecting content strategies for AI products and helping engineering teams speak human.
+Right now I'm at [AI Technical Writing.com](https://aitechnicalwriting.com), architecting content strategies for AI products and helping engineering teams speak human.
 
-When I'm not wrestling with documentation, I'm on a bicycle — preferably somewhere that has no business being cycled on. I've pedalled some of the highest, most dangerous, and most breathtaking highways in the world and written about every one of them on Medium. Every photograph you see in those pieces was taken by me — no stock images, no shortcuts. Just a camera, a bicycle, and whatever the road offers that day.
-I started Inner Wheel Journeys as a way to share these rides with people who can't make them yet. I believe in sustainable, human-powered transport — not as a lifestyle trend, but as a genuine way of being in the world. Cycling, walking, and everything that moves without burning something precious.
+---
+
+When I'm not wrestling with documentation, I'm on a bicycle — preferably somewhere that has no business being cycled on. I've pedalled some of the highest, most dangerous, and most breathtaking highways in the world and written about every one of them on [Medium](https://medium.com/@vivekdeshmukh). Every photograph you see in those pieces was taken by me — no stock images, no shortcuts. Just a camera, a bicycle, and whatever the road offers that day.
+
+I started [Inner Wheel Journeys](https://www.youtube.com/@InnerWheelJourneys) as a way to share these rides with people who can't make them yet. I believe in sustainable, human-powered transport — not as a lifestyle trend, but as a genuine way of being in the world. Cycling, walking, and everything that moves without burning something precious.
+
+---
 
 Nature grounds me. Philosophy orients me. I find myself returning again and again to Nisargadatta Maharaj's radical directness, Jiddu Krishnamurti's quiet dismantling of everything you thought you knew, and Swami Vivekananda's insistence that strength is the only virtue worth cultivating. Osho, selectively and carefully, for the moments when you need someone to say the uncomfortable thing out loud.
 
 I like making friends. I think that's underrated as a life skill.
-If you want to talk about documentation, developer experience, a cycling route, a philosophy book, or just something you've been thinking about — reach out. I'm usually somewhere between a deadline and a mountain.
+
+If you want to talk about documentation, developer experience, a cycling route, a philosophy book, or just something you've been thinking about — [reach out](mailto:vivek.technicalwriter@gmail.com). I'm usually somewhere between a deadline and a mountain.
+
+---
+
+## On the Road
+
+<div class="featured-ride">
+  <div style="position: relative; padding-bottom: 177.77%; height: 0; overflow: hidden; max-width: 340px; margin: 0 auto; border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.35);">
+    <iframe
+      src="https://www.youtube.com/embed/J0rCMgX8Ldg?autoplay=0&mute=1&loop=1&playlist=J0rCMgX8Ldg&controls=1&rel=0"
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; border-radius: 12px;"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen
+      title="Inner Wheel Journeys — Featured Ride">
+    </iframe>
+  </div>
+  <p style="text-align: center; margin-top: 1rem; font-size: 0.9rem; opacity: 0.7;">
+    🔇 Muted by default — click to unmute &nbsp;|&nbsp;
+    <a href="https://www.youtube.com/@InnerWheelJourneys" target="_blank">Watch more on YouTube →</a>
+  </p>
+</div>
