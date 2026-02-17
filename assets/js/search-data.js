@@ -49,7 +49,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/travelogue/index.html";
+            window.location.href = "/travelogue/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
