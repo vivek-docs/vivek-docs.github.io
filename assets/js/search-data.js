@@ -9,7 +9,35 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-travelogue",
+  },{id: "dropdown-technical-writing",
+              title: "Technical Writing",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/work/technical-writing/";
+              },
+            },{id: "dropdown-api-documentation",
+              title: "API Documentation",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/work/api-documentation/";
+              },
+            },{id: "dropdown-ux-writing",
+              title: "UX Writing",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/work/ux-writing/";
+              },
+            },{id: "dropdown-content-design",
+              title: "Content Design",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/work/content-design/";
+              },
+            },{id: "nav-travelogue",
           title: "travelogue",
           description: "",
           section: "Navigation",
