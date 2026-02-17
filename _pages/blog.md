@@ -1,19 +1,9 @@
 ---
-layout: default
-permalink: /travelogue/
+layout: page
 title: travelogue
+permalink: /travelogue/
 nav: true
 nav_order: 4
-pagination:
-  enabled: true
-  collection: posts
-  permalink: /page/:num/
-  per_page: 5
-  sort_field: date
-  sort_reverse: true
-  trail:
-    before: 1 # The number of links before the current page
-    after: 3 # The number of links after the current page
 ---
 
 I ride bicycles into places that have no business being cycled in. Then I write about it and photograph everything along the way.
@@ -39,30 +29,31 @@ These are not travel guides. They are honest accounts of what it feels like to b
 
 ## Latest Rides from Medium
 
-<!-- RSS feed is pulled via _config.yml external_sources -->
-<!-- Add your Medium RSS below once you confirm your handle -->
+{% assign medium_source = site.external_sources | where: "name", "medium.com" | first %}
+{% if medium_source %}
+  {% assign medium_posts = site.data.external_posts["medium.com"] %}
+  {% if medium_posts %}
+    {% for post in medium_posts limit: 8 %}
 
-{% if site.external_sources %}
-  {% for source in site.external_sources %}
-    {% if source.name == "medium.com" %}
-      {% for post in site.data.external_posts[source.name] %}
-<div style="padding: 1rem 0; border-bottom: 1px solid var(--global-divider-color);">
-  <a href="{{ post.url }}" target="_blank" style="font-size: 1.1rem; font-weight: 500;">
+<div style="padding: 1.25rem 0; border-bottom: 1px solid var(--global-divider-color);">
+  <a href="{{ post.url }}" target="_blank" style="font-size: 1.05rem; font-weight: 500; text-decoration: none;">
     {{ post.title }}
   </a>
-  <p style="font-size: 0.85rem; opacity: 0.6; margin: 0.25rem 0 0;">
+  <p style="font-size: 0.85rem; opacity: 0.6; margin: 0.3rem 0 0;">
     {{ post.date | date: "%B %d, %Y" }}
   </p>
 </div>
-      {% endfor %}
-    {% endif %}
-  {% endfor %}
+
+    {% endfor %}
+  {% else %}
+<p style="opacity: 0.6;">Could not load posts. <a href="https://medium.com/@YOUR_MEDIUM_HANDLE" target="_blank">Read directly on Medium →</a></p>
+  {% endif %}
 {% endif %}
 
 ---
 
 ## Photography
 
-Every image you see in my articles was taken by me — on the road, in the moment, with whatever light was available. No stock photography, no filters beyond what the mountain already provides.
+Every image in my articles was taken by me — on the road, in the moment, with whatever light was available. No stock photography, no filters beyond what the mountain already provides.
 
 All photos © Vivek M. Deshmukh
