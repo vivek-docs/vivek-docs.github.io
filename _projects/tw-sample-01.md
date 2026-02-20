@@ -1,13 +1,23 @@
 ---
 layout: page
-title: User Guide — SaaS Software Platform
-description: A user guide written for a SaaS software platform, covering onboarding, core features, and troubleshooting.
+title: User Guide Sample — SaaS Software Platform
+description: Documentation samples created during my work at LogicMonitor, covering onboarding, core features, and troubleshooting.
 category: writing-sample
 importance: 1
 ---
 
-Write a short paragraph here describing the guide — what the platform does, 
-who the target audience is, and what the guide covers (e.g. onboarding, 
-feature walkthroughs, troubleshooting steps).
+These samples were written for LogicMonitor's enterprise monitoring platform. 
+The documentation covers end-to-end onboarding, feature walkthroughs, and 
+troubleshooting references — structured for both first-time users and admins.
 
-[<i class="fas fa-file-pdf"></i> View Writing Sample PDF](/assets/pdf/work/technical-writing/WorkSample-LM-LogsPartition.pdf){: .btn .btn-sm}
+**Tools used:** Wordpress, JIRA, Confluence  
+**Audience:** End users, Admins
+
+**Samples:**
+- [Writing sample 1 - Concept, Reference, and Task](https://www.logicmonitor.com/support/logs-partition)
+- [Writing sample 2 - Troubleshooting](https://www.logicmonitor.com/support/lm-logs/troubleshooting-logs)
+- [Writing sample 3 - Third party integration](https://www.logicmonitor.com/support/logicmonitor-integrations-overview)
+
+---
+*Content belongs to [LogicMonitor](https://www.logicmonitor.com). Shared here as a 
+portfolio representation of my technical writing work.*
