@@ -1,6 +1,6 @@
 ---
 layout: page
-title: User Guide Sample — SaaS Software Platform
+title: User Guide — SaaS Software Platform
 description: A user guide written for a SaaS software platform, covering onboarding, core features, and troubleshooting.
 category: writing-sample
 importance: 1
