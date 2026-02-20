@@ -11,3 +11,4 @@ who the target audience is, and what the guide covers (e.g. onboarding,
 feature walkthroughs, troubleshooting steps).
 
 [View Sample](#){: .btn}
+[<i class="fas fa-file-pdf"></i> View Writing Sample](/assets/pdf/work/technical-writing/user-guide-saas-sample.pdf){: .btn .btn-sm}
