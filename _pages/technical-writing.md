@@ -6,7 +6,7 @@ description: A portfolio of my technical writing work — samples and documentat
 nav: false
 ---
 
-## Writing Samples
+## Published Work Samples
 
 A selection of documentation, guides, and reference material I've created across industries.
 
@@ -14,3 +14,5 @@ A selection of documentation, guides, and reference material I've created across
 {% for project in writing_samples %}
   {% include projects.liquid project=project %}
 {% endfor %}
+
+## Independent Work Samples
