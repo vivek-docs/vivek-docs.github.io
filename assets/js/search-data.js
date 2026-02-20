@@ -112,6 +112,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-api-reference-guide-payments-api",
+          title: 'API Reference Guide — Payments API',
+          description: "End-to-end API reference documentation written for a FinTech SaaS platform.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tw-sample-01/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
