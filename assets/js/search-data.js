@@ -112,9 +112,9 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-api-reference-guide-payments-api",
-          title: 'API Reference Guide — Payments API',
-          description: "End-to-end API reference documentation written for a FinTech SaaS platform.",
+            },},{id: "projects-user-guide-sample-saas-software-platform",
+          title: 'User Guide Sample — SaaS Software Platform',
+          description: "A user guide written for a SaaS software platform, covering onboarding, core features, and troubleshooting.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/tw-sample-01/";
             },},{id: "teachings-data-science-fundamentals",
