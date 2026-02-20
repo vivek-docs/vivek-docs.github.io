@@ -19,7 +19,7 @@ troubleshooting references — structured for both first-time users and admins.
 - [Writing Sample 2 — Troubleshooting](https://www.logicmonitor.com/support/lm-logs/troubleshooting-logs)
 - [Writing Sample 3 — Third Party Integration](https://www.logicmonitor.com/support/logicmonitor-integrations-overview)
 
->Importnant: Content belongs to [LogicMonitor](https://www.logicmonitor.com). Shared here as a portfolio representation of my technical writing work.
+>Content belongs to [LogicMonitor](https://www.logicmonitor.com). Shared here as a portfolio representation of my technical writing work.
 
 ---
 
