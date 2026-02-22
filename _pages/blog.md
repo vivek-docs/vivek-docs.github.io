@@ -6,33 +6,9 @@ nav: true
 nav_order: 4
 ---
 
-<div style="
-  background-image: url('/assets/img/Manali-background.jpg');
-  background-size: cover;
-  background-position: center;
-  margin: -1rem -1rem 2rem -1rem;
-  padding: 6rem 3rem;
-  position: relative;
-">
-  <div style="
-    background: rgba(0,0,0,0.65);
-    border-radius: 8px;
-    padding: 2rem;
-    color: white;
-    max-width: 600px;
-  ">
-    <h2 style="color: white; margin-top: 0;">On Two Wheels in the Himalayas</h2>
-    <p style="opacity: 0.9;">
-      I ride bicycles into places that have no business being cycled in. 
-      Then I write about it and photograph everything along the way.
-    </p>
-    <p style="opacity: 0.9;">
-      These are not travel guides. They are honest accounts of what it feels 
-      like to be small on a big road — the exhaustion, the altitude, the silence, 
-      and the occasional moment where everything is exactly right.
-    </p>
-  </div>
-</div>
+I ride bicycles into places that have no business being cycled in. Then I write about it and photograph everything along the way.
+
+These are not travel guides. They are honest accounts of what it feels like to be small on a big road — the exhaustion, the altitude, the silence, and the occasional moment where everything is exactly right.
 
 ---
 
@@ -56,8 +32,11 @@ Two recent stories from the road — written in the moment, photographed through
   </p>
 </div>
 
-<a href="https://medium.com/@vivek.author" target="_blank" style="font-size: 0.95rem;">
-  Read all stories on Medium →
+<a href="https://medium.com/@vivek.author" target="_blank"
+   style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem;
+          background: #02b875; color: white; border-radius: 8px;
+          text-decoration: none; font-weight: 500; margin-top: 1rem;">
+  ✍️ Read all stories on Medium
 </a>
 
 ---
