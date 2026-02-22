@@ -7,7 +7,7 @@ nav_order: 4
 ---
 
 <div style="
-  background-image: url('/assets/img/Manali-backround.jpg');
+  background-image: url('/assets/img/Manali-background.jpg');
   background-size: cover;
   background-position: center;
   margin: -1rem -1rem 2rem -1rem;
