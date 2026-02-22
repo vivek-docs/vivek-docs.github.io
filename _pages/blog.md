@@ -7,16 +7,15 @@ nav_order: 4
 ---
 
 <div style="
-  background-image: url('/assets/img/Manali-background.jpg');
+  background-image: url('/assets/img/Manali-backround.jpg');
   background-size: cover;
   background-position: center;
-  border-radius: 12px;
-  padding: 4rem 2rem;
-  margin-bottom: 2rem;
+  margin: -1rem -1rem 2rem -1rem;
+  padding: 6rem 3rem;
   position: relative;
 ">
   <div style="
-    background: rgba(0,0,0,0.5);
+    background: rgba(0,0,0,0.65);
     border-radius: 8px;
     padding: 2rem;
     color: white;
