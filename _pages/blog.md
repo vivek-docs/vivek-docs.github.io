@@ -46,7 +46,7 @@ These are not travel guides. They are honest accounts of what it feels like to b
 
     {% endfor %}
   {% else %}
-<p style="opacity: 0.6;">Could not load posts. <a href="https://medium.com/@YOUR_MEDIUM_HANDLE" target="_blank">Read directly on Medium →</a></p>
+<p style="opacity: 0.6;">Could not load posts. <a href="https://medium.com/@vivek.author" target="_blank">Read directly on Medium →</a></p>
   {% endif %}
 {% endif %}
 
