@@ -6,54 +6,84 @@ nav: true
 nav_order: 4
 ---
 
-I ride bicycles into places that have no business being cycled in. Then I write about it and photograph everything along the way.
-
-These are not travel guides. They are honest accounts of what it feels like to be small on a big road — the exhaustion, the altitude, the silence, and the occasional moment where everything is exactly right.
-
-<div style="display: flex; gap: 1rem; margin: 2rem 0; flex-wrap: wrap;">
-  <a href="https://medium.com/@vivek.author" target="_blank"
-     style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem;
-            background: var(--global-theme-color); color: white; border-radius: 8px;
-            text-decoration: none; font-weight: 500;">
-    ✍️ Read on Medium
-  </a>
-  <a href="https://www.youtube.com/@InnerWheelJourneys" target="_blank"
-     style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem;
-            background: #ff0000; color: white; border-radius: 8px;
-            text-decoration: none; font-weight: 500;">
-    ▶ Watch on YouTube
-  </a>
+<div style="
+  background-image: url('/assets/img/Manali-background.jpg');
+  background-size: cover;
+  background-position: center;
+  border-radius: 12px;
+  padding: 4rem 2rem;
+  margin-bottom: 2rem;
+  position: relative;
+">
+  <div style="
+    background: rgba(0,0,0,0.5);
+    border-radius: 8px;
+    padding: 2rem;
+    color: white;
+    max-width: 600px;
+  ">
+    <h2 style="color: white; margin-top: 0;">On Two Wheels in the Himalayas</h2>
+    <p style="opacity: 0.9;">
+      I ride bicycles into places that have no business being cycled in. 
+      Then I write about it and photograph everything along the way.
+    </p>
+    <p style="opacity: 0.9;">
+      These are not travel guides. They are honest accounts of what it feels 
+      like to be small on a big road — the exhaustion, the altitude, the silence, 
+      and the occasional moment where everything is exactly right.
+    </p>
+  </div>
 </div>
 
 ---
 
-## Latest Rides from Medium
+## Latest Rides from the Himalayas
 
-{% assign medium_source = site.external_sources | where: "name", "medium.com" | first %}
-{% if medium_source %}
-  {% assign medium_posts = site.data.external_posts["medium.com"] %}
-  {% if medium_posts %}
-    {% for post in medium_posts limit: 8 %}
+Two recent stories from the road — written in the moment, photographed throughout.
 
-<div style="padding: 1.25rem 0; border-bottom: 1px solid var(--global-divider-color);">
-  <a href="{{ post.url }}" target="_blank" style="font-size: 1.05rem; font-weight: 500; text-decoration: none;">
-    {{ post.title }}
-  </a>
-  <p style="font-size: 0.85rem; opacity: 0.6; margin: 0.3rem 0 0;">
-    {{ post.date | date: "%B %d, %Y" }}
+<div style="margin: 1.5rem 0;">
+  <p>
+    <strong><a href="https://medium.com/@vivek.author/cycling-on-one-of-the-highest-dangerous-yet-the-most-stunning-highways-in-the-world-70a5f7f7a00b" target="_blank">Article Title 1</a></strong><br>
+    <span style="font-size: 0.85rem; opacity: 0.6;">Month DD, YYYY · 8 min read</span><br>
+    A one or two line description of what this ride or article is about.
   </p>
 </div>
 
-    {% endfor %}
-  {% else %}
-<p style="opacity: 0.6;">Could not load posts. <a href="https://medium.com/@vivek.author" target="_blank">Read directly on Medium →</a></p>
-  {% endif %}
-{% endif %}
+<div style="margin: 1.5rem 0; padding-top: 1rem; border-top: 1px solid var(--global-divider-color);">
+  <p>
+    <strong><a href="https://medium.com/@vivek.author/day-2-manali-to-leh-unassisted-cycling-expedition-18f49a01c092" target="_blank">Article Title 2</a></strong><br>
+    <span style="font-size: 0.85rem; opacity: 0.6;">Month DD, YYYY · 6 min read</span><br>
+    A one or two line description of what this ride or article is about.
+  </p>
+</div>
+
+<a href="https://medium.com/@vivek.author" target="_blank" style="font-size: 0.95rem;">
+  Read all stories on Medium →
+</a>
 
 ---
 
-## Photography
+## Watch the Latest Ride
 
-Every image in my articles was taken by me — on the road, in the moment, with whatever light was available. No stock photography, no filters beyond what the mountain already provides.
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 10px; margin: 1.5rem 0;">
+  <iframe
+    src="https://www.youtube.com/embed/_ffCsOCFhOU?si=vQX_Oia30I-J1M7o"
+    title="Latest ride video"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
 
-All photos © Vivek M. Deshmukh
+<a href="https://www.youtube.com/@InnerWheelJourneys" target="_blank" style="font-size: 0.95rem;">
+  Watch more on YouTube →
+</a>
+
+---
+
+*Every photograph in my articles was taken by me — on the road, in the moment, 
+with whatever light the mountain provides. All photos © Vivek M. Deshmukh*
+```
+
+---
