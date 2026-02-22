@@ -138,7 +138,7 @@ external_sources:
     categories: [external-posts]
     tags: [google]
   - name: medium.com
-    rss_url: https://medium.com/feed/@YOUR_MEDIUM_HANDLE   # ← replace YOUR_MEDIUM_HANDLE
+    rss_url: https://medium.com/@vivek.author   # ← replace YOUR_MEDIUM_HANDLE
     categories: [travelogue]
     tags: [cycling, travel, photography]
 
