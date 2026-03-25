@@ -5,9 +5,12 @@ title: CV
 nav: true
 nav_order: 3
 ---
+<style>
+  h1.post-title, .page-header h1 { display: none; }
+</style>
 
 <div style="text-align: Left; margin-bottom: 1.5rem;">
-  <h1 style="margin-bottom: 0.25rem;">Vivek M Deshmukh</h1>
+  <h2 style="margin-bottom: 0.25rem;">Vivek M Deshmukh</h2>
   <p style="margin: 0.25rem 0;"><strong>Senior API and UX Technical Writer · AI Technical Writing.com</strong></p>
   <p style="margin: 0.25rem 0; font-size: 0.9rem;">
     📍 Pune, India &nbsp;|&nbsp;
