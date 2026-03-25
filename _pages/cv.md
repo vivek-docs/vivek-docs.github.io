@@ -9,8 +9,12 @@ nav_order: 3
   h1.post-title, .page-header h1 { display: none; }
 </style>
 
+<style>
+  hr { border: none; border-top: 2px solid #666; margin: 2rem 0; }
+</style>
+
 <div style="text-align: Left; margin-bottom: 1.5rem;">
-  <h2 style="margin-bottom: 0.25rem;">Vivek M Deshmukh</h2>
+  <h2 style="margin-bottom: 0.25rem;">Vivek M. Deshmukh</h2>
   <p style="margin: 0.25rem 0;"><strong>Senior API and UX Technical Writer · AI Technical Writing.com</strong></p>
   <p style="margin: 0.25rem 0; font-size: 0.9rem;">
     📍 Pune, India &nbsp;|&nbsp;
@@ -35,6 +39,20 @@ Senior documentation and technical content professional with **15+ years of expe
 - Led cross-functional collaboration, mentoring teams, coordinating stakeholders, and aligning content delivery with Agile releases & GTM strategies.
 
 ---
+
+## Key Skills
+
+| Category | Tools & Expertise |
+|---|---|
+| **Core Competencies** | API Documentation Architecture · Developer Experience Strategy · Structured Authoring (DITA) · Agile Release Documentation · UX Microcopy · Documentation Governance · Technical Editing · Developer Onboarding · Translation Readiness |
+| **Authoring & Documentation** | Oxygen XML Author · Adobe RoboHelp · FrameMaker · XMetaL · VS Code |
+| **Content Management** | WordPress · Confluence · GitBook · Joomla · Drupal |
+| **API & Docs-as-Code** | Git · Swagger · Postman · Markdown · OpenAPI Specifications |
+| **UX & Design** | Figma · Sketch · Articulate Storyline · Adobe Captivate |
+| **Visual & Multimedia** | SnagIT · Adobe Photoshop · VideoProc Editor · Microsoft Visio |
+| **Markup & Web** | HTML · XML · CSS (Working knowledge) |
+| **Project & Collaboration** | Jira · Microsoft Teams · Slack |
+| **CAD** | CATIA (3D Model Creation for Documentation Validation) |
 
 ## Key Skills
 
