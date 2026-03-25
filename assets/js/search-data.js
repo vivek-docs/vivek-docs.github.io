@@ -37,8 +37,8 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/work/content-design/";
               },
-            },{id: "nav-cv-vivek-deshmukh",
-          title: "CV - Vivek Deshmukh",
+            },{id: "nav-cv",
+          title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
