@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a Senior Technical Writer and UX Writer with 14+ years of experience helping people understand complex things — whether that's an API, an enterprise software product, or a mountain pass at 4,500 metres.
+I'm a Senior Technical Writer and UX Writer with 15+ years of experience helping people understand complex things — whether that's an API, an enterprise software product, or a mountain pass at 4,500 metres.
 
 I've worked across SaaS, FinTech, Telecom, PLM, and Travel industries, building documentation that developers actually read and UX copy that users actually understand. My work spans API reference guides, developer portals, UX microcopy, content strategy, and information architecture — tools of the trade include Oxygen XML, Swagger, Figma, GitBook, and a docs-as-code mindset that keeps everything version-controlled and sane.
 

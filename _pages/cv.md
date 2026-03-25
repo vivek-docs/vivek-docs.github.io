@@ -10,7 +10,7 @@ nav_order: 3
 </style>
 
 <style>
-  hr { border: none; border-top: 1px solid #666; margin: 2rem 0; }
+  hr { border: none; border-top: 0.5px solid #666; margin: 2rem 0; }
 
   table {
     border-collapse: collapse;
@@ -86,7 +86,7 @@ Senior documentation and technical content professional with **15+ years of expe
 
 ## Professional Experience
 
-### Senior API and UX Technical Writer
+#### Senior API and UX Technical Writer
 **AI Technical Writing.com** · Oct. 2025 – Present
 
 - Direct end-to-end documentation lifecycle for AI-enabled IT infrastructure monitoring platform, authoring API error references, managing structured DITA content, and publishing across WordPress and Confluence ecosystems.
@@ -95,7 +95,7 @@ Senior documentation and technical content professional with **15+ years of expe
 
 ---
 
-### Senior Technical Writer & UX Writer
+#### Senior Technical Writer & UX Writer
 **LogicMonitor LLP** · Jul. 2022 – Oct. 2025
 
 - Modernised documentation architecture by driving structured DITA transformation and Git-governed Docs-as-Code workflows, increasing developer engagement by **30%** and reducing support queries by **20%**.
@@ -107,7 +107,7 @@ Senior documentation and technical content professional with **15+ years of expe
 
 ---
 
-### Senior Technical Writer
+#### Senior Technical Writer
 **Aera Technology** · Jul. 2021 – Jul. 2022
 
 - Delivered user-centred API documentation for Aera's AI-driven Cognitive Operating System, improving integration clarity and reducing implementation errors.
@@ -116,7 +116,7 @@ Senior documentation and technical content professional with **15+ years of expe
 
 ---
 
-### Senior Technical Writer
+#### Senior Technical Writer
 **Tavisca, A JP Morgan India Services Company Ltd** · May. 2020 – Jul. 2021
 
 - Strengthened API documentation quality and developer enablement for ORXE, improving integration clarity and onboarding through structured API reference and error-handling documentation.
@@ -125,7 +125,7 @@ Senior documentation and technical content professional with **15+ years of expe
 
 ---
 
-### Senior Content Architect
+#### Senior Content Architect
 **Edgeverve Systems Ltd** · Jul. 2016 – May. 2020
 
 - Earned **EV Super League award** for leading Finacle and WMS (Wealth Management System) UI overhaul documentation, managing thousands of screenshot updates across major interface transformations.
