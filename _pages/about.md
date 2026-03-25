@@ -50,7 +50,7 @@ If you want to talk about documentation, developer experience, a cycling route, 
 ## On the Road
 
 <div class="featured-ride">
-  <div style="position: relative; padding-bottom: 80%; height: 0; overflow: hidden; max-width: 255px; margin: 0 auto; border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.35);">
+  <div style="position: relative; padding-bottom: 85%; height: 0; overflow: hidden; max-width: 250px; margin: 0 auto; border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.35);">
     <iframe
       src="https://www.youtube.com/embed/J0rCMgX8Ldg?autoplay=0&mute=1&loop=1&playlist=J0rCMgX8Ldg&controls=1&rel=0"
       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; border-radius: 12px;"
