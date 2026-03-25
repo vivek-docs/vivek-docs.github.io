@@ -12,7 +12,6 @@ children:
     permalink: /work/api-documentation/
   - title: UX Writing
     permalink: /work/ux-writing/
-  - title: divider
   - title: Content Design
     permalink: /work/content-design/
 ---
