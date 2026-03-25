@@ -10,7 +10,19 @@ nav_order: 3
 </style>
 
 <style>
-  hr { border: none; border-top: 2px solid #666; margin: 2rem 0; }
+  hr { border: none; border-top: 1px solid #666; margin: 2rem 0; }
+
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  table th, table td {
+    border: 1px solid #ccc;
+    padding: 8px 12px;
+  }
+  table th {
+    background-color: #f5f5f5;
+  }
 </style>
 
 <div style="text-align: Left; margin-bottom: 1.5rem;">
