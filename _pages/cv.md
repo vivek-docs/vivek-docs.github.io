@@ -66,34 +66,6 @@ Senior documentation and technical content professional with **15+ years of expe
 | **Project & Collaboration** | Jira · Microsoft Teams · Slack |
 | **CAD** | CATIA (3D Model Creation for Documentation Validation) |
 
-## Key Skills
-
-`API Documentation Architecture` `Developer Experience (DX) Strategy` `Structured Authoring (DITA)` `Agile Release Documentation` `UX Microcopy & Interface Writing` `Documentation Governance` `Technical Editing` `Developer Onboarding Enablement` `Translation Readiness & Vendor Governance`
-
-**Authoring & Documentation Tools**
-Oxygen XML Author · Adobe RoboHelp · Adobe FrameMaker · XMetaL · VS Code · Microsoft Office Suite · Microsoft Project
-
-**Content Management & Publishing**
-WordPress · Confluence · GitBook · Joomla (Elementary) · Drupal (Elementary)
-
-**API & Docs-as-Code**
-Git · Swagger · Postman · Docs-as-Code · Markdown · OpenAPI Specifications
-
-**UX & Design**
-Figma (Microcopy Review) · Sketch (Review Only) · Articulate Storyline · Adobe Captivate
-
-**Visual & Multimedia**
-SnagIT · Adobe Photoshop · VideoProc Editor · Microsoft Visio
-
-**Markup & Web**
-HTML · XML · CSS (Working knowledge)
-
-**Project & Collaboration**
-Jira · Microsoft Teams · Slack
-
-**CAD**
-CATIA (Hands-on 3D Model Creation for Documentation Validation)
-
 ---
 
 ## Noteworthy Highlights
