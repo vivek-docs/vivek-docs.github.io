@@ -8,4 +8,4 @@ nav: false
 ---
 ## Sample API Documentation
 I worked on an existing page for OpenObserve as my portfolio sample. The copyright and other information belongs to OpenObserve. This API page describes the JSON log ingestion endpoint. It is the most-used API in the entire OpenObserve platform.
- - [Download Sample API Documentation - Rewrite an Existing Page](/assets/pdf/work/OpenObserve_API_PageRewrite_JSON_Ingestion_Vivek_Deshmukh_1.1.pdf)
+ - Download Sample API Documentation - Rewrite an Existing Page
